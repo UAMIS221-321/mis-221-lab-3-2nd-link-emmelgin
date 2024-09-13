@@ -1,0 +1,15 @@
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/bin/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/bin/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.deps.json
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/bin/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.runtimeconfig.json
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/bin/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.dll
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/bin/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.pdb
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.AssemblyInfoInputs.cache
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.AssemblyInfo.cs
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.csproj.CoreCompileInputs.cache
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.sourcelink.json
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.dll
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-emmelgin.dll
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.pdb
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/mis-221-lab-3-2nd-link-emmelgin.genruntimeconfig.cache
+/Users/emmeelgin/MIS221/labs/mis-221-lab-3-2nd-link-emmelgin/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-emmelgin.dll
